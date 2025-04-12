@@ -9,3 +9,9 @@ Open index.html in your browser
 
 ## Checking
 Let's see if this works!
+<<<<<<< feature-confused
+
+### Confused
+What the foxxxx!
+
+
